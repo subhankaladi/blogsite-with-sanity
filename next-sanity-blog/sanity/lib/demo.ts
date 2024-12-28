@@ -2,7 +2,7 @@
  * Demo data used as placeholders and initial values for the blog
  */
 
-export const title = "BlogSite.";
+export const title = "ForexBlogs.";
 
 export const description = [
   {

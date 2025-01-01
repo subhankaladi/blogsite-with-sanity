@@ -8,6 +8,7 @@ export default {
       fontFamily: {
         sans: ["var(--font-inter)"],
       },
+      
     },
   },
   future: {
